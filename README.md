@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/iago-goncalves-60524b107" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatoiagogfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
 </div>
+
 <div>
   <a href="https://github.com/iagogfe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagogfe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,6 @@
   <img align="center" alt="Github" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Bash" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
-  
+<div> 
  Apaixonado por tecnologia e desafios...
- 
-
+</div>
