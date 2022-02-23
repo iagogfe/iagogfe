@@ -22,6 +22,3 @@
   <img align="center" alt="Github" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Bash" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
-<div> 
- Apaixonado por tecnologia e desafios...
-</div>
