@@ -31,6 +31,8 @@ em produção.
 
 - **LLMs** — fundamentos, prompting e avaliação
 - **Pipelines de ML / MLOps** — treino, deploy e monitoramento de modelos
+- **Segurança de IA (AI hardening)** — prompt injection, guard-rails e uso seguro de agentes
+- **Loop engineering** — engenharia de loops de agentes autônomos (como no autosearch-hitl)
 
 ## Projeto em destaque
 
