@@ -1,13 +1,26 @@
 ## Iago Gonçalves
 
-**Engenheiro DevOps/SRE** com +10 anos em TI, atualmente na **Shipay**. Trabalho com
-cloud, containers (Docker/Kubernetes), IaC (Terraform) e CI/CD — e cada vez mais com
-**agentes de IA** aplicados à engenharia.
+**Engenheiro DevOps/SRE** com +10 anos em TI, atualmente na **Shipay**. Meu dia a dia é
+**arquitetura de microserviços** e **operação de múltiplos clusters Kubernetes** —
+confiabilidade, automação, IaC e CI/CD. Cada vez mais aplico **IA** na engenharia, e
+estou estudando **LLMs** e **pipelines de ML (MLOps)**.
 
 <div>
   <a href="https://www.linkedin.com/in/iago-goncalves-60524b107" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:contatoiagogfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+## No que trabalho
+
+- **Microserviços** em produção — design, deploy e operação
+- **Múltiplos clusters Kubernetes** — escala, confiabilidade e observabilidade
+- **Infraestrutura como código** (Terraform), **CI/CD** e automação
+- **IA aplicada à engenharia** — agentes e ferramentas no fluxo de trabalho
+
+## Estudando agora
+
+- **LLMs** — fundamentos, prompting e avaliação
+- **Pipelines de ML / MLOps** — treino, deploy e monitoramento de modelos
 
 ## Projeto em destaque
 
