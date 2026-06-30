@@ -22,9 +22,10 @@ automação, IaC e CI/CD. Cada vez mais aplico **IA** na engenharia, e estou est
 
 ## Base em redes & infra
 
-Fundamento forte em **redes e infraestrutura**: VoIP (**Asterisk**), firewall e
-roteamento (**iptables**, **pfSense**, **MikroTik**), switching e cabeamento — a base
-que sustenta operar serviços confiáveis em produção.
+Fundamento forte em **redes e infraestrutura**: VoIP (**Asterisk**), servidores de
+**e-mail (Zimbra)** e **DNS**, firewall e roteamento (**iptables**, **pfSense**,
+**MikroTik**), switching e cabeamento — a base que sustenta operar serviços confiáveis
+em produção.
 
 ## Estudando agora
 
