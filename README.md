@@ -1,4 +1,4 @@
-## Olá! Eu sou o Iago Gonçalves 🖐️
+## Iago Gonçalves
 
 Engenheiro de software focado em **backend, cloud e plataformas** — e cada vez mais
 em **agentes de IA** aplicados ao dia a dia de engenharia.
@@ -8,7 +8,7 @@ em **agentes de IA** aplicados ao dia a dia de engenharia.
   <a href="mailto:contatoiagogfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 **[autosearch-hitl](https://github.com/iagogfe/autosearch-hitl)** — uma *Agent Skill*
 de **otimização autônoma com humano no centro (human-in-the-loop)**: você define o que
@@ -20,7 +20,7 @@ qualquer domínio com métrica objetiva.
 [![skills.sh](https://img.shields.io/badge/skills.sh-autosearch--hitl-111111)](https://www.skills.sh/iagogfe/autosearch-hitl)
 [![repo](https://img.shields.io/badge/GitHub-autosearch--hitl-181717?logo=github)](https://github.com/iagogfe/autosearch-hitl)
 
-## 🛠️ Tecnologias que uso no dia a dia
+## Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
