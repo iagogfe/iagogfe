@@ -1,9 +1,11 @@
 ## Iago Gonçalves
 
-**Engenheiro DevOps/SRE** com +10 anos em TI, atualmente na **Shipay**. Meu dia a dia é
-**arquitetura de microserviços** e **operação de múltiplos clusters Kubernetes** —
-confiabilidade, automação, IaC e CI/CD. Cada vez mais aplico **IA** na engenharia, e
-estou estudando **LLMs** e **pipelines de ML (MLOps)**.
+**Engenheiro DevOps/SRE** com +10 anos em TI, atualmente na **Shipay**. Atuo em
+**sistemas de pagamentos via API** (Pix, cash-in/cash-out, boleto e BoletoPix) em
+**alta escala — +3 milhões de requisições/dia**. Meu dia a dia é arquitetura de
+**microserviços** e operação de **múltiplos clusters Kubernetes** — confiabilidade,
+automação, IaC e CI/CD. Cada vez mais aplico **IA** na engenharia, e estou estudando
+**LLMs** e **pipelines de ML (MLOps)**.
 
 <div>
   <a href="https://www.linkedin.com/in/iago-goncalves-60524b107" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -12,10 +14,17 @@ estou estudando **LLMs** e **pipelines de ML (MLOps)**.
 
 ## No que trabalho
 
+- **Pagamentos via API** — Pix, cash-in/cash-out, boleto e BoletoPix, em alta escala (**+3M requisições/dia**)
 - **Microserviços** em produção — design, deploy e operação
 - **Múltiplos clusters Kubernetes** — escala, confiabilidade e observabilidade
 - **Infraestrutura como código** (Terraform), **CI/CD** e automação
 - **IA aplicada à engenharia** — agentes e ferramentas no fluxo de trabalho
+
+## Base em redes & infra
+
+Fundamento forte em **redes e infraestrutura**: VoIP (**Asterisk**), firewall e
+roteamento (**iptables**, **pfSense**, **MikroTik**), switching e cabeamento — a base
+que sustenta operar serviços confiáveis em produção.
 
 ## Estudando agora
 
