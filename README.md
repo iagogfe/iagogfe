@@ -1,7 +1,8 @@
 ## Iago Gonçalves
 
-Engenheiro de software focado em **backend, cloud e plataformas** — e cada vez mais
-em **agentes de IA** aplicados ao dia a dia de engenharia.
+**Engenheiro DevOps/SRE** com +10 anos em TI, atualmente na **Shipay**. Trabalho com
+cloud, containers (Docker/Kubernetes), IaC (Terraform) e CI/CD — e cada vez mais com
+**agentes de IA** aplicados à engenharia.
 
 <div>
   <a href="https://www.linkedin.com/in/iago-goncalves-60524b107" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
