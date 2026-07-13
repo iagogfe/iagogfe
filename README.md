@@ -34,7 +34,17 @@ em produção.
 - **Segurança de IA (AI hardening)** — prompt injection, guard-rails e uso seguro de agentes
 - **Loop engineering** — engenharia de loops de agentes autônomos (como no autosearch-hitl)
 
-## Projeto em destaque
+## Projetos em destaque
+
+**[excalidraw-icons-mcp](https://github.com/iagogfe/excalidraw-icons-mcp)**: servidor
+MCP pra agentes de IA desenharem diagramas de arquitetura no Excalidraw com **ícones
+oficiais** de AWS, Azure, GCP, OCI e Kubernetes no lugar de retângulos genéricos.
+Fork do [mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw), com busca e
+inserção de ícones (31 tools), convenções por tipo de diagrama (C4, redes, cloud) e
+criação em lote mais rápida. O agente desenha, tira screenshot do que fez e corrige.
+
+[![release](https://img.shields.io/github/v/release/iagogfe/excalidraw-icons-mcp)](https://github.com/iagogfe/excalidraw-icons-mcp/releases/latest)
+[![repo](https://img.shields.io/badge/GitHub-excalidraw--icons--mcp-181717?logo=github)](https://github.com/iagogfe/excalidraw-icons-mcp)
 
 **[autosearch-hitl](https://github.com/iagogfe/autosearch-hitl)** — uma *Agent Skill*
 de **otimização autônoma com humano no centro (human-in-the-loop)**: você define o que
