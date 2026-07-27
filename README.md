@@ -56,6 +56,36 @@ qualquer domínio com métrica objetiva.
 [![skills.sh](https://img.shields.io/badge/skills.sh-autosearch--hitl-111111)](https://www.skills.sh/iagogfe/autosearch-hitl)
 [![repo](https://img.shields.io/badge/GitHub-autosearch--hitl-181717?logo=github)](https://github.com/iagogfe/autosearch-hitl)
 
+**[herdr-ai-memory](https://github.com/iagogfe/herdr-ai-memory)**: plugin pro
+[herdr](https://herdr.dev) (multiplexador de agentes no terminal) que lança os
+agentes dentro de um workstream do
+[ai-memory](https://github.com/akitaonrails/ai-memory). Em vez de abrir o Claude
+Code num pane solto, você escolhe o agente num menu e ele abre já com o histórico
+do que os outros fizeram no projeto. Suporta 8 agentes, tem atalho de teclado e
+oferece workstream paralelo quando já tem um agente rodando. Primeiro plugin de
+memória entre agentes do marketplace do herdr.
+
+[![repo](https://img.shields.io/badge/GitHub-herdr--ai--memory-181717?logo=github)](https://github.com/iagogfe/herdr-ai-memory)
+
+## Contribuições
+
+**[ai-memory](https://github.com/akitaonrails/ai-memory)**, memória de longo prazo
+pra agentes de código: implementei o suporte a *managed workstreams* pro **Grok
+Build CLI**. Na prática, dá pra sair do Claude Code no meio de uma tarefa, abrir o
+Grok e continuar de onde parou, sem reexplicar nada.
+
+O adapter gera a sessão nativa com `--session-id` e retoma com `--resume`, entrega
+o contexto do workstream pelo `--rules` do Grok (o pacote só é confirmado depois que
+o processo sobe, então uma falha na largada não perde a entrega) e importa o
+transcript do `chat_history.jsonl` em modo leitura, sem escrever no store privado do
+harness. O cursor de importação valida um hash do que já foi lido, então um rewind
+que reescreve o arquivo não duplica histórico. Prompt de sistema, raciocínio
+criptografado e os blocos que o Grok injeta ficam de fora do registro portátil.
+Saiu na v1.19.0.
+
+[![PR #237](https://img.shields.io/badge/PR-%23237%20merged-8250df?logo=github)](https://github.com/akitaonrails/ai-memory/pull/237)
+[![v1.19.0](https://img.shields.io/badge/lan%C3%A7ado%20na-v1.19.0-brightgreen)](https://github.com/akitaonrails/ai-memory/releases/tag/v1.19.0)
+
 ## Tecnologias que uso no dia a dia
 
 **Cloud & Infra**
