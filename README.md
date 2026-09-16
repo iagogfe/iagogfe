@@ -46,6 +46,19 @@ criação em lote mais rápida. O agente desenha, tira screenshot do que fez e c
 [![release](https://img.shields.io/github/v/release/iagogfe/excalidraw-icons-mcp)](https://github.com/iagogfe/excalidraw-icons-mcp/releases/latest)
 [![repo](https://img.shields.io/badge/GitHub-excalidraw--icons--mcp-181717?logo=github)](https://github.com/iagogfe/excalidraw-icons-mcp)
 
+**[mcp-allquiet](https://github.com/iagogfe/mcp-allquiet)**: servidor MCP pro
+[All Quiet](https://allquiet.app), que é gestão de incidentes e escala de plantão.
+A API pública tem 136 operações, e uma tool pra cada uma encheria o contexto do
+modelo antes da primeira pergunta. Então são 10 tools: 5 pro fluxo de incidente
+(listar, ler, abrir, registrar ação, quem está de plantão) e 5 genéricas que leem
+o spec OpenAPI embutido e alcançam o resto da API. Rodei a autosearch-hitl em
+cima dele e o texto que o modelo lê caiu 48%, de 257 mil pra 135 mil caracteres,
+com uma checagem que reprovava qualquer corte que perdesse nome de parâmetro,
+campo obrigatório ou permissão exigida.
+
+[![PyPI](https://img.shields.io/pypi/v/mcp-allquiet)](https://pypi.org/project/mcp-allquiet/)
+[![repo](https://img.shields.io/badge/GitHub-mcp--allquiet-181717?logo=github)](https://github.com/iagogfe/mcp-allquiet)
+
 **[autosearch-hitl](https://github.com/iagogfe/autosearch-hitl)** — uma *Agent Skill*
 de **otimização autônoma com humano no centro (human-in-the-loop)**: você define o que
 é "melhor" e ela itera sozinha — *muda → mede → mantém/descarta* — com segurança e bom
